@@ -1,31 +1,29 @@
-:
+Project: How Far have Cars driven the Nature!
 
-    Project: How Far have Cars driven the Nature!
-    author: F16-IG-3020, Aditya Tanikanti, atanikan@iu.edu   
-            F16-IG-3005, Amruta Chavan, amchavan@iu.edu
-    Project Type: Analytics
-:
+author: F16-IG-3020, Aditya Tanikanti, atanikan@iu.edu   
+        F16-IG-3005, Amruta Chavan, amchavan@iu.edu
 
-    Problem:This project will throw light on how much and how badly are automobiles affecting the environment and causing Global Warming. 
-            We will try to find some fuel efficient cars and features of cars which cause pollution such as CO2 emission over the years. 
-            We will also explore other important relationships we found in the data and model it so as to predict the smog score of a vehicle given its features.
+Project Type: Analytics
+
+Problem:This project will throw light on how much and how badly are automobiles affecting the environment and causing Global Warming. 
+        We will try to find some fuel efficient cars and features of cars which cause pollution such as CO2 emission over the years. 
+        We will also explore other important relationships we found in the data and model it so as to predict the smog score of a vehicle given its features.
         
-    Abstract:This project provides an insight into the fuel consumption and carbon emission by different car models driven in the US. 
-             It analyses and compares performance of different types of cars based on types,brands and other specifications.
-             The project will throw light on how much and how badly are automobiles affecting the environment and causing global warming by releasing CO2 and smog. 
-             It tries to find some fuel efficient cars and/or alternate solutions to avoid further damage to nature. 
-             Other important relationships and correlations between the various features will be explored through the built model and thus eventually predict smog rating given car features. 
-:      
+Abstract: This project provides an insight into the fuel consumption and carbon emission by different car models driven in the US. 
+          It analyses and compares performance of different types of cars based on types,brands and other specifications.
+          The project will throw light on how much and how badly are automobiles affecting the environment and causing global warming by releasing CO2 and smog. 
+          It tries to find some fuel efficient cars and/or alternate solutions to avoid further damage to nature. 
+          Other important relationships and correlations between the various features will be explored through the built model and thus eventually predict smog rating given car features. 
+          
+References: https://gitlab.com/cloudmesh_fall2016/project-018/blob/master/report/references.bib
 
-    References: https://gitlab.com/cloudmesh_fall2016/project-018/blob/master/report/references.bib
-    
-:
+Deliverables:
 
-    Deliverables:
     Environment: Python
     Requirements and Running:
             1) Download data either from website links provided below or data folder in repository ((Updated Data: Tuesday November 22 2016))
                The data is not huge hence is placed in the data folder.
+            
                https://www.fueleconomy.gov/feg/epadata/vehicles.csv.zip
                https://www.fueleconomy.gov/feg/epadata/emissions.csv.zip
                
