@@ -2,7 +2,6 @@
 
     Project: How Far have Cars driven the Nature!
     author: F16-IG-3020, Aditya Tanikanti, atanikan@iu.edu   
-            F16-IG-3005, Amruta Chavan, amchavan@iu.edu
     Project Type: Analytics
 :
 
